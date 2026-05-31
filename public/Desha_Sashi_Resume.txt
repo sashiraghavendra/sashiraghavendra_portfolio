@@ -1,0 +1,67 @@
+DESHA SASHI RAGHAVENDRA KUMAR
+Phone: +91 6302155895 | Email: sashiraghavendra789@gmail.com
+GitHub: https://github.com/sashiraghavendra
+LinkedIn: https://linkedin.com/in/sashiraghavendra
+Location: Nandyal, Andhra Pradesh, India
+
+================================================================================
+SUMMARY
+================================================================================
+Computer Science and Engineering graduate with strong knowledge of Java, SQL, 
+HTML, and CSS. Passionate about problem solving and developing efficient 
+software applications. Seeking opportunities to apply technical skills, 
+contribute to real-world projects, and grow as a software developer.
+
+================================================================================
+EDUCATION
+================================================================================
+Kalasalingam Academy of Research and Education, Tamilnadu
+Bachelor of Technology in Computer Science and Engineering
+Duration: 2022 - 2026
+Performance: CGPA: 8.19
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+* Programming Languages: Java, SQL, HTML, CSS
+* Tools & Platforms:     Git, Eclipse, VS Code
+* Soft Skills:           Teamwork, Communication, Problem Solving
+
+================================================================================
+INTERNSHIP EXPERIENCE
+================================================================================
+Infosys Springboard Internship 6.0 | Intern
+Project: Cryptocurrency Portfolio Management System with Real-Time Risk 
+         and Scam Detection
+Duration: Nov 2025 - Jan 2026
+
+* Developed a backend-focused cryptocurrency portfolio management system using 
+  Spring Boot and MySQL.
+* Implemented REST APIs for user authentication, portfolio tracking, holdings 
+  management, and trade history.
+* Integrated CoinGecko, Binance, and CryptoScamDB APIs for live market tracking 
+  and scam detection.
+* Added profit/loss analysis, risk alerts, notifications, and CSV export for 
+  tax-friendly reporting.
+* Technologies used: Java, Spring Boot, MySQL, REST APIs, Postman.
+
+================================================================================
+PROJECT
+================================================================================
+University ERP Portal | Academic Project
+GitHub Link: https://github.com/sashiraghavendra
+
+* Built a university ERP web app for admissions, fee payments, hostel booking, 
+  and notices.
+* Developed student and admin modules for login, approval, profiles, and records.
+* Created MySQL tables to manage students, courses, fees, payments, and hostel 
+  rooms.
+* Designed responsive dashboard pages for students and admins using HTML and CSS.
+* Technologies used: Java, MySQL, HTML, CSS.
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+* Introduction to Java: Coursera (offered by LearnQuest), Jun 2025
+* SQL Fundamentals: IBM SkillsBuild, Jul 2025
+* Introduction to Git and GitHub: Coursera (offered by Google), Jul 2025
