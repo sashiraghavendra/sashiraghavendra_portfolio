@@ -129,7 +129,7 @@ export default function About() {
                   <div>
                     <p className="text-xs font-mono text-gray-300 uppercase tracking-widest font-semibold">Institute</p>
                     <p className="text-sm font-medium text-gray-200 truncate max-w-[200px]" title={resumeData.education[0].institution}>
-                      Kalasalingam Academy
+                      Kalasalingam Academy of Research and Education
                     </p>
                   </div>
                 </div>
@@ -192,7 +192,7 @@ export default function About() {
                 </p>
               </div>
               <div className="flex items-center justify-between text-xs font-mono pt-4 border-t border-white/5 text-gray-300">
-                <span>Kalasalingam Academy (2022 - 2026)</span>
+                <span>Kalasalingam Academy of Research and Education (2022 - 2026)</span>
                 <span className="text-brand-pink">CGPA: 8.19</span>
               </div>
             </div>
