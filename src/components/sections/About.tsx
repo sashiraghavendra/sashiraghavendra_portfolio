@@ -129,7 +129,7 @@ export default function About() {
                   <div>
                     <p className="text-xs font-mono text-gray-300 uppercase tracking-widest font-semibold">Institute</p>
                     <p className="text-sm font-medium text-gray-200 truncate max-w-[200px]" title={resumeData.education[0].institution}>
-                      Kalasalingam Academy of Research and Education
+                      Kalasalingam University
                     </p>
                   </div>
                 </div>
