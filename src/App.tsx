@@ -1,6 +1,5 @@
 import Header from "./components/Header";
 import ParticleBackground from "./components/ParticleBackground";
-import LoadingScreen from "./components/LoadingScreen";
 import Hero from "./components/sections/Hero";
 import About from "./components/sections/About";
 import Skills from "./components/sections/Skills";
@@ -21,9 +20,6 @@ export default function App() {
     <>
       {/* 3D Constellation Mesh Background */}
       <ParticleBackground />
-
-      {/* Cybernetic Preloader */}
-      <LoadingScreen />
 
       {/* Navigation Headers */}
       <Header />
